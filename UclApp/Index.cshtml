@@ -1,0 +1,25 @@
+﻿@using UclLib.Objects;
+@using UclLib.Data;
+@{
+    Layout = null;
+    List<Person> data = GetData.GetAllUclData();
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Home</title>
+</head>
+<body>
+    <h1>List of students & teachers at UCL</h1>
+    <ul>
+        @foreach(var person in data )
+        {
+            <li>@person.Name - @person.ToString()</li>
+        }
+    </ul>
+
+</body>
+</html>
