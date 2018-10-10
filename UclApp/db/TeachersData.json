@@ -1,0 +1,41 @@
+[
+	{
+		"Address": {
+			"Street": "random street name",
+			"Zip": 1234,
+			"City": "Odense",
+			"Country": "Denmark"
+		},
+		"CPR": 1505972909,
+		"Email": "email@gmail.com",
+		"IsErasmusStudent": false,
+		"Name": "Fratele Ion",
+		"Phone": 85764734
+	},
+	{
+		"Address": {
+			"Street": "random street name",
+			"Zip": 1234,
+			"City": "Odense",
+			"Country": "Denmark"
+		},
+		"CPR": 1505972909,
+		"Email": "email@gmail.com",
+		"IsErasmusStudent": false,
+		"Name": "Angel of death Morten",
+		"Phone": 85764734
+	},
+	{
+		"Address": {
+			"Street": "random street name",
+			"Zip": 1234,
+			"City": "Odense",
+			"Country": "Denmark"
+		},
+		"CPR": 1505972909,
+		"Email": "email@gmail.com",
+		"IsErasmusStudent": false,
+		"Name": "Teacher Mc.Teachey",
+		"Phone": 85764734
+	}
+]

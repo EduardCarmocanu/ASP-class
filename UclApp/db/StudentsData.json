@@ -1,0 +1,67 @@
+[
+	{
+		"Address": {
+			"Street": "random street name",
+			"Zip": 5230,
+			"City": "Odense",
+			"Country": "Denmark"
+		},
+		"CPR": 1234,
+		"Email": "carmocanueduard@gmail.com",
+		"IsErasmusStudent": false,
+		"Name": "Ed Boyyyy",
+		"Phone": 31829605
+	},
+	{
+		"Address": {
+			"Street": "random street name",
+			"Zip": 5230,
+			"City": "Odense",
+			"Country": "Denmark"
+		},
+		"CPR": 1234,
+		"Email": "carmocanueduard@gmail.com",
+		"IsErasmusStudent": false,
+		"Name": "Ya fam J.Low",
+		"Phone": 31829605
+	},
+	{
+		"Address": {
+			"Street": "random street name",
+			"Zip": 5230,
+			"City": "Odense",
+			"Country": "Denmark"
+		},
+		"CPR": 1234,
+		"Email": "carmocanueduard@gmail.com",
+		"IsErasmusStudent": false,
+		"Name": "Andrew San",
+		"Phone": 31829605
+	},
+	{
+		"Address": {
+			"Street": "random street name",
+			"Zip": 5230,
+			"City": "Odense",
+			"Country": "Denmark"
+		},
+		"CPR": 1234,
+		"Email": "carmocanueduard@gmail.com",
+		"IsErasmusStudent": false,
+		"Name": "Pia Sensei",
+		"Phone": 31829605
+	},
+	{
+		"Address": {
+			"Street": "random street name",
+			"Zip": 5230,
+			"City": "Odense",
+			"Country": "Denmark"
+		},
+		"CPR": 1234,
+		"Email": "carmocanueduard@gmail.com",
+		"IsErasmusStudent": false,
+		"Name": "Martin senpai",
+		"Phone": 31829605
+	}
+]
